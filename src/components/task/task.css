@@ -1,0 +1,29 @@
+.task-container {
+    border: 1px solid gray;
+    border-radius: .5rem;
+    background-color: whitesmoke;
+    padding: .7rem;
+}
+
+.delete-container {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: flex-end;
+    gap: 1rem;
+}
+
+.btn-delete {
+    padding: 0.5rem !important;
+    border-radius: 0.5rem !important;
+    border: 0.1px solid gray !important;
+    width: auto !important;
+}
+
+.update-form{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    background-color: whitesmoke;
+    border: 1px solid gray;
+    padding: .5rem;
+}

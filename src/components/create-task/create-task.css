@@ -1,0 +1,27 @@
+.create-task-form {
+    background-color: whitesmoke;
+    border-bottom: 1px solid gray;
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.create-task{
+    display: block !important;
+}
+
+.create-task-label{
+    margin-right: 1rem;
+}
+
+.addTask-btn{
+    padding: .5rem;
+}
+
+.addTask-input{
+    padding: .3rem;
+    font-size: 1rem;
+}
